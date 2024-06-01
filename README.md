@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m Iman
+- 👋 Hi there, I’m Iman!
 - 👀 My research interest expands in Robotics, Computer Vision, Deep Learning and Machine Learning algorithm.
 - 😄 I've done my master's at the Isfahan University of Thechnology. Ive done my B.Sc at the University of Isfahan.
 - 🌱 I’m always learning new things. I absolutely enjoy it.  
