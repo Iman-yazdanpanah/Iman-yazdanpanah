@@ -3,7 +3,7 @@
 - 😄 I've done my master's at the Isfahan University of Thechnology. Ive done my B.Sc at the University of Isfahan.
 - 🌱 I’m always learning new things. I absolutely enjoy it.  
 - 💞️ I’m currently looking for a Ph.D. position that fits my research aspirations and goals.
-- 📫 How to reach me: I.YAZDANPANAH.IY@GMAIL.COM OR I.YAZDANPANAH@EC.IUT.AC.IR
+- 📫 How to reach me: I.YAZDANPANAH.IY@GMAIL.COM or I.YAZDANPANAH@EC.IUT.AC.IR
 - ⚡ languages: C++, Python
 
 <!---
